@@ -2,6 +2,11 @@
 
 ## C'est
 
+`C'est` betekent **"Het is"**. Je gebruikt het om iets of iemand aan te wijzen of te identificeren. Het is een combinatie van `ce` (dit/dat) en `est` (is).
+
+- `C'est la frontière` → Het is de grens.
+- `C'est un voyage` → Het is een reis.
+
 | Frans              | Nederlands          | Uitspraak      |
 | ------------------ | ------------------- | -------------- |
 | C'est la frontière | Het is de grens     | Sè la frôtjère |
@@ -9,7 +14,19 @@
 | C'est un voyage    | Het is een reis     | Sè tû vwajaage |
 | C'est la leçon     | Het is de les       | Sè la lesô     |
 
-## Voilà
+## Voilà en Voici
+
+`Voilà` en `voici` gebruik je om iets aan te wijzen.
+
+- `Voilà` (Daar is/zijn): Gebruik je meestal voor dingen die wat **verder weg** zijn. Het is alsof je zegt: "Kijk daar!".
+- `Voici` (Hier is/zijn): Gebruik je voor dingen die **dichtbij** zijn. Je kunt het vaak vervangen door "Hier, alstublieft" als je iets geeft.
+
+Denk aan de `la` in voilà voor lang weg en de `ci` in voici voor het Engelse 'see' (iets wat je van dichtbij ziet).
+
+- `Voilà la route` → **Daar is** de weg (je wijst naar de weg in de verte).
+- `Voici le passeport` → **Hier is** het paspoort (je geeft het paspoort aan iemand).
+
+### Voilà
 
 | Frans             | Nederlands                               | Uitspraak       |
 | ----------------- | ---------------------------------------- | --------------- |
@@ -18,7 +35,7 @@
 | Voilà la fille    | Daar is het meisje                       | Vwala la fie-je |
 | Voilà la Hollande | Daar is Nederland                        | Vwala la olâde  |
 
-## Voici
+### Voici
 
 | Frans                        | Nederlands                   | Uitspraak               |
 | ---------------------------- | ---------------------------- | ----------------------- |
