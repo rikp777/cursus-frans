@@ -100,12 +100,29 @@ stad of een land is.
 | Strasbourg se trouve **dans le nord-est** de la France. | Straatsburg ligt in het noordoosten van Frankrijk. | Straas-boer se troev dâ le nor-est de la Frâns. |
 | Brest se trouve **dans le nord-ouest** de la France.    | Brest ligt in het noordwesten van Frankrijk.       | Brest se troev dâ le nor-west de la Frâns.      |
 
-| Frans                | Nederlands            | Uitspraak        |
-|----------------------|-----------------------|------------------|
-| Où est la gare?      | Waar is het station?  | Oe è la gaar?    | 
-| Où est le passeport? | Waar is het paspoort? | Oe è le pas-por? |
-| Où est la carte?     | Waar is de kaart?     | Oe è la kart?    |
-| Où est la ville?     | Waar is de stad?      | Oe è la viel?    |
+| Frans                | Nederlands            | Uitspraak         |
+|----------------------|-----------------------|-------------------|
+| Où est la gare?      | Waar is het station?  | Oe è la gaar?     | 
+| Où est le passeport? | Waar is het paspoort? | Oe è le pas-por?  |
+| Où est la carte?     | Waar is de kaart?     | Oe è la kart?     |
+| Où est la ville?     | Waar is de stad?      | Oe è la viel?     |
+| Où est la rivière    | Waar is de rivier     | Oe è la rievjère? |
+
+| Frans             | Nederlands          | Uitspraak           |
+|-------------------|---------------------|---------------------|
+| Voici la gare     | Hier is het station | Vwa-sie la gaar     | 
+| Voilà la carte    | Daar is de kaart    | Vwa-la la kart      | 
+| Voici l'autoroute | Hier is de autoweg  | Vwa-sie lo-to-roete | 
+| Voilà la ville    | Daar is de stad     | Vwa-la la viel      | 
+| Voici la rivière  | Hier is de rivier   | Vwa-sie la rievjère | 
+
+| Frans                                    | Nederlands                                        | Uitspraak                                  |
+|------------------------------------------|---------------------------------------------------|--------------------------------------------|
+| La gare est dans la grande ville.        | Het station is in de grote stad.                  | La gaar è dâ la grând viel.                | 
+| La carte est sur la route.               | De kaart ligt op de weg.                          | La kart è suur la roete.                   | 
+| L'autoroute est entre les deux villes.   | De autoweg ligt tussen de twee steden.            | Lo-to-roete è âtr leelee deu viel.         | 
+| La ville se trouve au nord du pays.      | De stad bevindt zich in het noorden van het land. | La viel se troev o nor duu pè-jie.         | 
+| La rievjère est à l'ouest de la montagne | De rivier is ten westen van de berg.              | La rie-vjèr eh-ta-lwest deu la môn-tan-je. | 
 
 ## Vocabulaire
 
